@@ -1,0 +1,22 @@
+# PM1-Nmin-137 - Szigeti Miklós
+
+**Nmin=137 számítógépes igazolás - 50 év munkája - s(v)!=0**
+
+> CÉL: Nmin(T1,1) = 137 bizonyítása Z^4-ben  
+> Axioma: s(v) != 0 - állapot 0 TILTOTT, koordináta 0 SZABAD, geometriai 0 -> 1 RP-vel
+
+## Szerző
+**Szigeti Miklós** - Budapest - 1975-2025 (50 év)
+
+## Mi van itt?
+- `main.py` - Okos verzió <10 MB memória, percek alatt fut
+- `PM1-Handout-2oldal.pdf` - 2 oldalas összefoglaló
+- `QR_Szigeti_Miklos_JAVITOTT.png` - QR kód
+
+## Futtatás
+python main.py
+
+Eredmény: Nmin=137 igazolva, s(v)!=0 mindig teljesül.
+
+## Link
+https://github.com/muallimat-bot/PM1-Nmin-137
