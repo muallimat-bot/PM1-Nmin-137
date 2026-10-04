@@ -1,3 +1,7 @@
+> ⚠️ DISCLAIMER:
+> This repository contains exploratory Meta AI generated models (torus model, L1-L4).
+> The peer-reviewed PM Theory (T10-T31, 56 versions) is at: https://zenodo.org/records/22812901
+
 # PM1-Nmin-137
 # PM1-Nmin-137 - Szigeti Miklós
 
