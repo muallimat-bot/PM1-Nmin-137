@@ -1,2 +1,2 @@
 # PM1-Nmin-137
-Nmin=137 computer proof - 50 years - s(v)!=0 - Szigeti Miklos
+Nmin=137 számítógépes igazolás - 50 év - s(v)!=0 - Szigeti Miklós
